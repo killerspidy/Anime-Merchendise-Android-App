@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "81836578284",
+    "firebase_url": "https://weebstore-46d0f-default-rtdb.firebaseio.com",
+    "project_id": "weebstore-46d0f",
+    "storage_bucket": "weebstore-46d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81836578284:android:7bc59549a5844047ef9cc9",
+        "android_client_info": {
+          "package_name": "com.digitalskies.virtualclothierdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81836578284:android:68507db39b3360e3ef9cc9",
+        "android_client_info": {
+          "package_name": "com.example.hypercart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81836578284:android:58d17d154e91d4bdef9cc9",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81836578284:android:7e75b99e280054caef9cc9",
+        "android_client_info": {
+          "package_name": "com.example.votenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81836578284:android:f59e5576e3fdd04aef9cc9",
+        "android_client_info": {
+          "package_name": "com.example.weebstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

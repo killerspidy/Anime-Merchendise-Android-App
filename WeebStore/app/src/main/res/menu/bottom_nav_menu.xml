@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/men"
+        android:icon="@drawable/boy_24"
+        android:title="MEN"/>
+
+    <item
+        android:id="@+id/categories"
+        android:icon="@drawable/grid_view_24"
+        android:title="CATEGORIES"/>
+
+    <item
+        android:id="@+id/womenn"
+        android:icon="@drawable/girl_24"
+        android:title="WOMEN"/>
+
+</menu>

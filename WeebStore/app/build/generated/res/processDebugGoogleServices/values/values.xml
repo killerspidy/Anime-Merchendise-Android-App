@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">81836578284-susd8hp7e7342kftbu6eud16e05tns3g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://weebstore-46d0f-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">81836578284</string>
+    <string name="google_api_key" translatable="false">AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM</string>
+    <string name="google_app_id" translatable="false">1:81836578284:android:f59e5576e3fdd04aef9cc9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBMvtIuOJ36hXKzwW9TKySVEW_zCsFXBLM</string>
+    <string name="google_storage_bucket" translatable="false">weebstore-46d0f.appspot.com</string>
+    <string name="project_id" translatable="false">weebstore-46d0f</string>
+</resources>
